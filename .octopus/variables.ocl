@@ -1,0 +1,3 @@
+variable "WebsiteName" {
+    value "Super Duper Website! V2" {}
+}
